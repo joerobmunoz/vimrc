@@ -2,7 +2,8 @@ filetype plugin indent on
 syntax on
 silent! runtime macros/matchit.vim
 
-set nocompatible set backspace=indent,eol,start
+set nocompatible
+set backspace=indent,eol,start
 set showcmd
 set number
 set relativenumber
